@@ -6,7 +6,7 @@ This task concerns accessing JSON data and using it in your page. JSON data abou
     The total number of kittens, and how many are male and female, in the kittenInfo variable.
     The values of these variables are then printed to the screen inside paragraphs.
 
-
+    YOU ARE NOT ALLOWED TO DIRECTLY IMPORT AND USE THE catsample.json AFTER CLONING
     The JSON data is provided as text inside the displayCatInfo() function. You'll need to parse it into JSON before you can get any data out of it.
     The last mother cat name should have an "and" before it, and a full stop after it
 
