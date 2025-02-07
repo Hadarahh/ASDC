@@ -1,4 +1,4 @@
-This task concerns accessing JSON data and using it in your page. JSON data about some mother cats and their kittens is available in sample.json. The JSON is loaded into the page as a text string and made available in the catString parameter of the displayCatInfo() function. 
+This task concerns accessing JSON data and using it in your page. JSON data about some mother cats and their kittens is available in catsample.json. The JSON is loaded into the page as a text string and made available in the catString parameter of the displayCatInfo() function. 
 
 
     Your task is to fill in the missing parts of the displayCatInfo() function to store:
